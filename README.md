@@ -18,7 +18,7 @@ This repository contains a simple FPS game created in Blender, where players mus
 Watch the gameplay video to get a better understanding of how the game works:
 
 [![Gameplay Video]
-https://github.com/user-attachments/assets/800a5da1-9958-4d8e-acd0-17ba19296238
+https://github.com/user-attachments/assets/98aee563-c722-4e44-a6ff-10e4057002a8
 
 ### 🛠️ Development
 This game was developed using **Blender** for modeling, animation, and scripting. It provides an interactive FPS experience with basic mechanics such as movement, shooting, and health management.
