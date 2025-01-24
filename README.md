@@ -15,10 +15,8 @@ This repository contains a simple FPS game created in Blender, where players mus
 - **Ammo & Health**: Ammo and health are limited, requiring the player to find boxes scattered in the environment when they run out.
 
 ### 📹 Gameplay Video
-Watch the gameplay video to get a better understanding of how the game works:
 
-[![Gameplay Video]
-https://github.com/user-attachments/assets/98aee563-c722-4e44-a6ff-10e4057002a8
+https://github.com/user-attachments/assets/56b3b0af-06ae-42da-9407-3078477bba5f
 
 ### 🛠️ Development
 This game was developed using **Blender** for modeling, animation, and scripting. It provides an interactive FPS experience with basic mechanics such as movement, shooting, and health management.
